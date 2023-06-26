@@ -1,2 +1,3 @@
-# modulo
-Modulo de Notificaciones
+# Modulo de Notificaciones
+
+El propósito es implementar un módulo automatizado de notificación para todas las partes interesadas en la plataforma Pilar de la Universidad Nacional del Altiplano - Puno, con el objetivo de solucionar el problema de una comunicación deficiente entre jurados, tesistas, asesores y demás involucrados durante la presentación del proyecto de tesis. En la actualidad, muchos proyectos de tesis son aprobados según el reglamento, pero debido a la falta de una comunicación eficiente, los tesistas no realizan las correcciones y sugerencias dadas por los jurados dentro del plazo establecido. Como resultado, los proyectos de tesis quedan desactivados y se impone una sanción de un mes (01) con restricciones de acceso a la plataforma. Para mejorar esta situación, se implementará en el sistema PILAR un sistema de notificación automatizada utilizando medios ampliamente utilizados como Gmail, WhatsApp y otros durante la presentación de proyecto de tesis.  
