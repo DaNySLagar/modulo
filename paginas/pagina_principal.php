@@ -38,7 +38,7 @@
             <p>Aqui encontraras el contenido principal de tu aplicacion.</p>
 
             <button type="button" onclick="viewNotifications()" class="btn btn-primary">
-            Notifications <span class="badge badge-light"><?php echo $cantidadNotificaciones; ?></span>
+            Notifications <span class="badge badge-light" style="color:red;"><?php echo $cantidadNotificaciones; ?></span>
             </button>
         </div>
         
